@@ -8,3 +8,9 @@ Based on the '[Sigma 9](https://scpwiki.com/component:theme)' theme created for 
 The codes are also derived from the [Simple Yonder](https://scp-wiki.wikidot.com/theme:simple-yonder) theme by EstrellaYoshteEstrellaYoshte.
 
 This theme is available under the wiki's [Creative Commons Attribution-ShareAlike 3.0 license (CC-BY-SA)](https://creativecommons.org/licenses/by-sa/3.0/).
+
+<img align="right" width="300" src="https://i.postimg.cc/XY5X0Fnk/SCP-Happy-Coding.png">
+
+
+------------
+
